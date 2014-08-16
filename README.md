@@ -9,7 +9,7 @@ Python 2.7 64 bit and DeCAF (https://github.com/UCB-ICSI-Vision-Group/decaf-rele
 
 Download Cohn-Kanade+ dataset.
 
-Execute emotionclassification.py to produce features files from the dataset and to save a classifier.
+Execute emotionclassification.py to produce features files from the dataset and to save a classifier. You might want to change the path to the Haar cascade files from OpenCV (the scripts assume they're in the same folder, so you can just copy them in there too) 
 
 Execute zengame.py.
 
