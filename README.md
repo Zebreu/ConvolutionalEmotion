@@ -13,4 +13,4 @@ Execute emotionclassification.py to produce features files from the dataset and 
 
 Execute zengame.py.
 
-Paper about the system available on arXiv.org: link pending
+Paper about the system available on arXiv.org: http://arxiv.org/pdf/1408.3750v1.pdf
