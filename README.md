@@ -1,6 +1,6 @@
 UPDATE
 
-Note to anyone who'd like to try this project: DeCAF is not an active project anymore, but [Caffe] (http://caffe.berkeleyvision.org/) is and it's quick and easy to replace the DeCAF lines in my code for Caffe. I really suggest you to use it.
+Note to anyone who'd like to try this project: DeCAF is not an active project anymore, but [Caffe] (http://caffe.berkeleyvision.org/) is and it's quick and easy to replace the DeCAF lines in my code for Caffe. I really suggest you to try it. Another project of mine uses it and you can take a look there: https://github.com/Zebreu/SketchingAI 
 
 ConvolutionalEmotion
 ====================
